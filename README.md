@@ -1,1 +1,1 @@
-# Garbage-Image-Recognition-Iphone-
+# Garbage-Image-Recognition
