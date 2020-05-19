@@ -5,6 +5,6 @@ I Led the development of a prototype application called PICM. We used IBM Watson
 
 After collecting more than 3200 pictures the results seemed fairly accurate. Some errors occurred when certain objects were scanned but given the time constraints, the results were great! I decided to create 5 separate classes that suited the recycling regulations of the city of Hamilton in addition to a negative class for a greater degree of accuracy. 
 
-![PICM RESULTS](/Desktop/Project PICM.jpg)
+![PICM RESULTS](https://tareqassi.com/bundles/imageedit__9577127537.jpg)
 
 
