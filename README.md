@@ -5,3 +5,4 @@ I Led the development of a prototype application called PICM. We used IBM Watson
 See files titled "Result #" to see how it turned out.
 
 
+IBM VISUAL RECOGNITION SERVICES ARE NO LONGER SUPPORTED. 
